@@ -3,7 +3,7 @@
 ### 🎯 About Me
 BS.c Industrial Engineering and Management at Ben-Gurion University, specializing in Information Systems and AI. 
 
-Data Analyst with hands-on experience, combining technical capabilities with business acumen. 
+Works as: Data Analyst.
 
 ### 💻 Technologies & Tools
 - **Programming:** Python, SQL, R
