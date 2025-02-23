@@ -16,9 +16,6 @@ Data Analyst with hands-on experience, combining technical capabilities with bus
 - **Housing Price Prediction** - Linear regression model with descriptive and predictive analytics in R
 - **SQL** - Complex queries and business analysis
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noam-ganim&show_icons=true&theme=radical)
-
 ### 🎨 Hobbies & Interests
 - 🧗‍♂️ Rock Climbing
 - 🎮 Gaming
@@ -27,8 +24,6 @@ Data Analyst with hands-on experience, combining technical capabilities with bus
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/Noam-ganim)
-- 📧 [Email](mailto:ganim831@gmail.com)
-- 📱 052-6063807
 
 ### 🌱 Currently Learning
 Focusing on deepening knowledge in Prompt Engineering and AI, while combining analytical capabilities with broad business perspective.
