@@ -26,19 +26,3 @@ Works as: Data Analyst.
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/Noam-ganim)
 
-### 🌱 Currently Learning
-Focusing on deepening knowledge in Prompt Engineering and AI, while combining analytical capabilities with broad business perspective.
-
-### 👥 Collaboration
-Looking for opportunities to collaborate on Data Analysis, ML, and BI projects. If you have an interesting idea, I'd love to hear about it!
-
-### 💼 Professional Experience
-- **Data Analyst at NUR** (11/2024 - Present)
-  - Analyzing data using Python and Excel
-  - Developing algorithms for data integrity
-  - Conducting statistical analyses and hypothesis testing
-
-- **Business Analyst Intern at KLA Starship Program** (8/2024 - 1/2025)
-  - Analyzing utilization KPIs
-  - Creating Tableau & Excel dashboards
-  - Providing data-driven recommendations
