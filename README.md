@@ -10,6 +10,9 @@ Works as: Data Analyst.
 - **BI & Visualization:** Tableau, Excel
 - **Data Analysis:** Statistical Analysis, Machine Learning, A/B Testing
 - **Databases:** ETL, Data Warehousing, Database Administration
+- **Prompt Engineer** building websites, analyzing data, creating animations
+- Visit the website I developed ( https://charming-profiterole-a2b993.netlify.app).
+  
 
 ### 📊 Featured Projects
 - **Customer Satisfaction Prediction** - ML model using Random Forest, Neural Networks, and Clustering
