@@ -10,8 +10,8 @@ Works as: Data Analyst.
 - **BI & Visualization:** Tableau, Excel
 - **Data Analysis:** Statistical Analysis, Machine Learning, A/B Testing
 - **Databases:** ETL, Data Warehousing, Database Administration
-- **Prompt Engineer** building websites, analyzing data, creating animations
-- Visit the website I developed [Learning Math](https://charming-profiterole-a2b993.netlify.app).
+- **Prompt Engineer** building websites, analyzing data, creating animations (Visit the website I developed [Learning Math](https://charming-profiterole-a2b993.netlify.app).)
+  
   
 
 ### 📊 Featured Projects
