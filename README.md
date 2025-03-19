@@ -16,7 +16,7 @@ Works as: Data Analyst.
 
 ### 📊 Featured Projects
 - **Customer Satisfaction Prediction** - ML model using Random Forest, Neural Networks, and Clustering
-- **BI System for Online Clothing Store** - BPMN analysis, ERD, and Tableau dashboard creation
+- **BI System for Online Clothing Store** - BPMN analysis, ERD, and Tableau dashboard creation [public.tableau](https://public.tableau.com/app/profile/noam.ganim/vizzes)
 - **Housing Price Prediction** - Linear regression model with descriptive and predictive analytics in R
 - **SQL** - Complex queries and business analysis
 
