@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Noam Ganim!
 
 ### 🎯 About Me
-BS.c Industrial Engineering and Management at Ben-Gurion University, specializing in Information Systems and AI. 
+BS.c Industrial Engineering and Management at Ben-Gurion University, specializing in Information Systems. 
 
 Works as: Data Analyst.
 
 ### 💻 Technologies & Tools
-- **Programming:** Python, SQL, R
+- **Programming:** Python, SQL
 - **BI & Visualization:** Tableau, Excel
 - **Data Analysis:** Statistical Analysis, Machine Learning, A/B Testing
 - **Databases:** ETL, Data Warehousing, Database Administration
