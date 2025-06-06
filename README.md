@@ -23,8 +23,8 @@ Works as: Data Analyst.
 ### 🎨 Hobbies & Interests
 - 🧗‍♂️ Rock Climbing
 - 🎮 Gaming
-- 📈 Stock Market Trading
-- 🎨 Drawing
+- 🧗‍♂️ Hiking
+
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/Noam-ganim)
