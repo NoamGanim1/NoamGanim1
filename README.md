@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Noam Ganim!
 
 ### 🎯 About Me
-BS.c Industrial Engineering and Management at Ben-Gurion University, specializing in Information Systems. 
+BS.c Industrial Engineering and Management at Ben-Gurion University. 
 
 Works as: Data Analyst.
 
