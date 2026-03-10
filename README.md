@@ -3,7 +3,7 @@
 ### 🎯 About Me
 B.Sc. Engineering graduate from Ben-Gurion University, specializing in Data and Information Systems.
 
-Works as: Planning Analyst
+**Works as: Planning Analyst**
 
 ### 💻 Technologies & Tools
 - **Programming:** Python, SQL, java(oop)
