@@ -17,7 +17,10 @@ B.Sc. Engineering graduate from Ben-Gurion University, specializing in Data and 
 - **BI System for Online Clothing Store** - BPMN analysis, ERD, and Tableau dashboard creation [public.tableau](https://public.tableau.com/app/profile/noam.ganim/vizzes)
 - **Housing Price Prediction** - Linear regression model with descriptive and predictive analytics in R
 - **SQL** - Complex queries and business analysis
-- **website I developed** [Learning Math](https://charming-profiterole-a2b993.netlify.app)
+
+### 🌐 website I developed
+- [Learning Math](https://charming-profiterole-a2b993.netlify.app)
+- [Investment calculator](https://investmentc.lovable.app/)
 
 ### 🎨 Hobbies & Interests
 - 🧗‍♂️ Rock Climbing
