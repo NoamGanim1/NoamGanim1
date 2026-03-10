@@ -6,13 +6,12 @@ B.Sc. Engineering graduate from Ben-Gurion University, specializing in Data and 
 Works as: Planning Analyst
 
 ### 💻 Technologies & Tools
-- **Programming:** Python, SQL Server
-- **BI & Visualization:** Tableau, Excel, Power BI
+- **Programming:** Python, SQL, java(oop)
+- **BI & Visualization:** SQL Server, Power BI, Tableau, Excel
 - **Data Analysis:** Statistical Analysis, Machine Learning, A/B Testing
-- **Databases:** ETL processes, Data Warehouses, Data Marts, Star Schema, ERD modeling, normalization and denormalization.
-- **Prompt Engineer** building websites, analyzing data, creating animations (Visit the website I developed [Learning Math](https://charming-profiterole-a2b993.netlify.app).)
-  
-  
+- **Databases:** ETL processes, Data Warehouses, Data Marts, Star Schema, ERD modeling, normalization & denormalization.
+- **AI:** Prompt Engineering, AI Agents, Vibe Coding.
+
 ### 📊 Featured Projects
 - **Customer Satisfaction Prediction** - ML model using Random Forest, Neural Networks, and Clustering
 - **BI System for Online Clothing Store** - BPMN analysis, ERD, and Tableau dashboard creation [public.tableau](https://public.tableau.com/app/profile/noam.ganim/vizzes)
@@ -23,8 +22,9 @@ Works as: Planning Analyst
 - 🧗‍♂️ Rock Climbing
 - 🎮 Gaming
 - 🧗‍♂️ Hiking
-
+- 🏀 basketball
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/Noam-ganim)
-
+- Visit the website I developed [Learning Math](https://charming-profiterole-a2b993.netlify.app)
+  
