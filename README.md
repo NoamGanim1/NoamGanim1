@@ -6,9 +6,9 @@ B.Sc. Engineering from Ben-Gurion University, specializing in Data and Informati
 **Works as: Data Analyst**
 
 ### 💻 Technologies & Tools
-• **Data & BI: Excel, Power BI (DAX), Tableau, SQL Server, PostgreSQL
-• **Programming: Python, SQL, Git
-• **AI & LLMs: Claude Code, Hooks MCP, AI Agents, Prompt Engineering, API Integrations, LLM Workflow Automation
+- **Data & BI: Excel, Power BI (DAX), Tableau, SQL Server, PostgreSQL
+- **Programming: Python, SQL, Git
+- **AI & LLMs: Claude Code, Hooks MCP, AI Agents, Prompt Engineering, API Integrations, LLM Workflow Automation
 
 
 ### 📊 Featured Projects
