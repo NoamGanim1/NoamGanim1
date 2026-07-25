@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Noam Ganim!
 
 ### 🎯 About Me
-B.Sc. Engineering graduate from Ben-Gurion University, specializing in Data and Information Systems.
+B.Sc. Engineering from Ben-Gurion University, specializing in Data and Information Systems.
 
-**Works as: Planning Analyst**
+**Works as: Data Analyst**
 
 ### 💻 Technologies & Tools
-- **Programming:** Python, SQL, java(oop)
-- **BI & Visualization:** SQL Server, Power BI, Tableau, Excel
-- **Data Analysis:** Statistical Analysis, Machine Learning, A/B Testing
-- **Databases:** ETL processes, Data Warehouses, Data Marts, Star Schema, ERD modeling, normalization & denormalization.
-- **AI:** Prompt Engineering, AI Agents, Vibe Coding.
+• Data & BI: Excel, Power BI (DAX), Tableau, SQL Server, PostgreSQL
+• Programming: Python, SQL, Git
+• AI & LLMs: Claude Code, Hooks MCP, AI Agents, Prompt Engineering, API Integrations, LLM Workflow Automation
+
 
 ### 📊 Featured Projects
 - **Customer Satisfaction Prediction** - ML model using Random Forest, Neural Networks, and Clustering
@@ -19,8 +18,8 @@ B.Sc. Engineering graduate from Ben-Gurion University, specializing in Data and 
 - **SQL** - Complex queries and business analysis
 
 ### 🌐 website I developed
+- [finance tools il](https://finance-tools-il.com/)
 - [Learning Math](https://charming-profiterole-a2b993.netlify.app)
-- [Investment calculator](https://investmentc.lovable.app/)
 
 ### 🎨 Hobbies & Interests
 - 🧗‍♂️ Rock Climbing
